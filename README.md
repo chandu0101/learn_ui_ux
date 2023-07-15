@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=PZ2hchA4Jvg - UX Research & Prototype Testing | 
 https://www.youtube.com/watch?v=BOt3MNB71gI - Free Figma Crash Course for Beginners 2023 | UI/UX Design
 
 https://www.youtube.com/watch?v=kbZejnPXyLM  - Free Figma UX Design UI Essentials Course
+
+# certification
+
+https://www.coursera.org/professional-certificates/google-ux-design
