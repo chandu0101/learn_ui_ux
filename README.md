@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=kbZejnPXyLM  - Free Figma UX Design UI Essential
 # certification
 
 https://www.coursera.org/professional-certificates/google-ux-design
+
+https://web.dev/learn/design
