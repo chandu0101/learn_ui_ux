@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=kbZejnPXyLM  - Free Figma UX Design UI Essential
 
 https://www.youtube.com/@DesignCodeTeam/videos - DesignCode
 
+https://www.youtube.com/@Nova_Designs_/videos  - Nova_Designs
+
 
 # certification
 
