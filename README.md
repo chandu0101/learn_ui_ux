@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=BOt3MNB71gI - Free Figma Crash Course for Beginn
 
 https://www.youtube.com/watch?v=kbZejnPXyLM  - Free Figma UX Design UI Essentials Course
 
+https://www.youtube.com/@DesignCodeTeam/videos - DesignCode
+
+
 # certification
 
 https://www.coursera.org/professional-certificates/google-ux-design
