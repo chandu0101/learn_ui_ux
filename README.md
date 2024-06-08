@@ -14,7 +14,7 @@ https://www.youtube.com/@DesignCodeTeam/videos - DesignCode
 
 https://www.youtube.com/@Nova_Designs_/videos  - Nova_Designs
 
-[A Beginners Guide to Figma | Complete Basics Tutorial | Ansh Mehra]([https://www.youtube.com/watch?v=bI6q16ffdgQ&list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW](https://www.youtube.com/watch?v=bI6q16ffdgQ&list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-))
+[A Beginners Guide to Figma | Complete Basics Tutorial | Ansh Mehra](https://www.youtube.com/watch?v=bI6q16ffdgQ&list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-)
 
 
 # certification
