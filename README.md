@@ -24,3 +24,7 @@ https://www.youtube.com/@Nova_Designs_/videos  - Nova_Designs
 https://www.coursera.org/professional-certificates/google-ux-design
 
 https://web.dev/learn/design
+
+# Figma
+
+https://www.youtube.com/@Figma
