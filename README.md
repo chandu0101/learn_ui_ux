@@ -32,3 +32,5 @@ https://www.youtube.com/@Figma
 [Learn Figma](https://www.youtube.com/watch?v=g6rQFP9zCAM&list=PLgGbWId6zgaUeFJ4y8s6BNmPN-APWpB3N)
 
 [Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM)
+
+[Figma Components: From Zero to Hero | FREE COURSE](https://www.youtube.com/watch?v=FfeuWbZSRj4)
