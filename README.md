@@ -39,6 +39,8 @@ https://www.youtube.com/@Figma
 
 [Figma Tutorial for Beginners (2024)](https://www.youtube.com/watch?v=ezldKx-jPag)
 
+[Figma UI UX Essentials](https://www.youtube.com/watch?v=kbZejnPXyLM&list=PLttcEXjN1UcHu4tCUSNhhuQ4riGARGeap)
+
 
 # Motiff
  https://motiff.com/
